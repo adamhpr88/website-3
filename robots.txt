@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://swardlineturf.co.uk/sitemap.xml
